@@ -1,8 +1,10 @@
 html {
   font-size: 10px;
-  background: url('./background.jpg') bottom center;
-  background-size: cover;
+  background-color: black;
+  /* background-image: url("G:/Software Engineering/Web Dev/100 devs/Javascript30/JavaScript30/01 - JavaScript Drum Kit/img/background.jpg") bottom center;
+  background-size: cover; */
 }
+
 
 body,html {
   margin: 0;
@@ -19,7 +21,7 @@ body,html {
 }
 
 .key {
-  border: .4rem solid black;
+  border: .4rem solid blue;
   border-radius: .5rem;
   margin: 1rem;
   font-size: 1.5rem;
